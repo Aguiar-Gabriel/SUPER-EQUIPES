@@ -1,9 +1,9 @@
 # SUPER-EQUIPES
 ##[Carrascos](carrascos.md)
 
-##[Tropa Alfa](link)
+##[Tropa Alfa](tropa_alfa.md)
 
-##[Defensores](link)
+##[Defensores](Defensores.md)
 
 ##[Thunderbolts](link)
 
