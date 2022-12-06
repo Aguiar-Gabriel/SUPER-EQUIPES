@@ -5,8 +5,8 @@
 
 ##[Defensores](Defensores.md)
 
-##[Thunderbolts](link)
+##[Thunderbolts](Thunderbolts.md)
 
-##[Fugitivos](link)
+##[Fugitivos](fugitivos.md)
 
-##[Agentes da Atlas](link)
+##[Agentes da Atlas](tropa_alfa.md)
